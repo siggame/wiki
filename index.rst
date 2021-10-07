@@ -10,7 +10,7 @@ Welcome to ACM Game Development's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   graphics/index
 
 Indices and tables
 ==================
