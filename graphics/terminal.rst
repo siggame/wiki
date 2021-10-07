@@ -84,7 +84,7 @@ and push the result to a queue.
     
     async def main():
         while True:
-            print(await agetch())
+            print(await ainput())
 
     threading.Thread(target=reader, daemon=True).start()
     loop.create_task(main())
