@@ -43,7 +43,7 @@ On Linux, unbuffered input requires more work
     with unbuffered() as getch:
         # do stuff
         while True:
-            print(input())
+            print(getch())
     
     # Finally block executes when the above block exits
 
