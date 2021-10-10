@@ -7,4 +7,4 @@ Graphics
    :caption: Contents:
    
    terminal
-   
+   curses
